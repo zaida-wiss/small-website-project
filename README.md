@@ -1,2 +1,34 @@
-# small-website-project
-A small project setup with a few milestones for learning.
+# Small website project
+
+This is a repo for starting a project for a small website to practice things like:
+* Responsive deign (mobile first)
+* Flexbox and grid
+* Semantic HTML
+
+## Checklist
+
+You can follow the list below to get started and have some requirements to work on.
+
+### Base layout
+- [ ] Decide on a theme/purpose for the site
+- [ ] Create a layout using grid and flexbox
+- [ ] Add media queries for common screen sizes
+- [ ] Add a font
+- [ ] Find a color palette
+
+### HTML
+- [ ] Header
+- [ ] Nav
+- [ ] Main
+- [ ] Sections
+- [ ] Articles
+- [ ] Footer
+
+### CSS
+- [ ] Add variables for colors
+- [ ] Scale font size based on screen size
+
+### Extra parts
+- [ ] Make a collapsible navbar for mobile (hamburger menu)
+- [ ] Add a contact form with input for name, mail and a message
+- [ ] Add a favicon
