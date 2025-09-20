@@ -1,7 +1,7 @@
 # Small website project
 
 This is a repo for starting a project for a small website to practice things like:
-* Responsive deign (mobile first)
+* Responsive design (mobile first)
 * Flexbox and grid
 * Semantic HTML
 
