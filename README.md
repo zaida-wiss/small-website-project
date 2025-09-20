@@ -34,3 +34,15 @@ You can follow the list below to get started and have some requirements to work 
 - [ ] Make a collapsible navbar for mobile (hamburger menu)
 - [ ] Add a contact form with input for name, mail and a message
 - [ ] Add a favicon
+
+## Some tips for themes
+
+- Gardening service
+- Local coffee shop
+- Freelance portfolio
+- Photography gallery
+- Personal blog
+- Nonprofit organization
+- Online bakery
+- Tech repair service
+- Travel guide
