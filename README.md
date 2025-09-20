@@ -5,6 +5,8 @@ This is a repo for starting a project for a small website to practice things lik
 * Flexbox and grid
 * Semantic HTML
 
+To get started create a [FORK](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) of this repo.
+
 ## Checklist
 
 You can follow the list below to get started and have some requirements to work on.
