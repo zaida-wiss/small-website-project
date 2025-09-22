@@ -1,7 +1,4 @@
-* {
 
-    border: black solid 1px;
-}
 
 body {
     background-color: white;
@@ -15,7 +12,7 @@ body {
     grid-template-rows: auto 1fr auto;
     grid-template-areas: 
     "header header header header"
-    "form article article article"
+    "main main main main"
     "footer footer footer footer";
 }
 
@@ -39,16 +36,26 @@ nav a {
     text-decoration: none;
 }
 
-article {
+main.main-container{
+    display:grid;
+    grid-area: main;
+    grid-template-columns: auto auto 1fr auto;
+    grid-template-areas: "form article article article";
+    min-height: 300px;
+    background-color: red;
+}
+.article {
     grid-area: article;
     background-color: purple;
     color: white;
 
+
 }
-form {
+.Namninsamling {
     grid-area: form;
     background-color: rgb(26, 113, 162);
     color: white;
+    max-width: 150px;
 
 }
 
